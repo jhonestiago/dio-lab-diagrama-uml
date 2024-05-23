@@ -1,4 +1,4 @@
-package dispositivo.aplicativos;
+package dispositivo.funcionalidades;
 
 // Interface da funcionalidade Reprodutor Musical
 public interface ReprodutorMusical {

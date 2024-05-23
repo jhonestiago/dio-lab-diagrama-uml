@@ -1,4 +1,4 @@
-package dispositivo.aplicativos;
+package dispositivo.funcionalidades;
 
 // Interface da funcionalidade Aparelho Telefônico
 public interface AparelhoTelefonico {
